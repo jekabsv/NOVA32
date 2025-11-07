@@ -74,7 +74,6 @@ MFR (FLAGS to reg)
 WFI  
 SysCall (trap to kernel, sets LINK)  
 MovPC  
-PCMov (kernel only)  
 SysCfg (kernel only)  
 IRET  
 SPMOV (SP to reg, kernel only)  
